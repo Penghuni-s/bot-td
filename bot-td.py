@@ -1,23 +1,3 @@
-Author -> Rahmat adha
-Tool Name -> Facebook
-Release -> 2021-05-23 11:35:33 +0800
-Languages -> Ruby
-Version -> 1.0
-License -> MIT LIcense
-Github -> github.com/MR-X-Junior/
-Whatsapp -> https://wa.me/6285754629509/
-Facebook -> www.facebook.com/Anjay.pro098
-
-
-DI SARANKAN UNTUK LOGIN MELALUI TOKEN AKSES
-
-JIKA MEMILIH LOGIN MELALUI Email/password DI SARANKAN UNTUK MENGGUNAKAN VPN
-
-=end
-
-$LOAD_PATH.unshift File.expand_path(".", "lib")
-
-
 require 'requests/sugar'
 require 'thread/pool'
 require 'io/console'
