@@ -1,5 +1,3 @@
-$=begin
-
 Author -> Rahmat adha
 Tool Name -> Facebook
 Release -> 2021-05-23 11:35:33 +0800
